@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>projname</key>
+	<string>xxxx.xcworkspace</string>
+	<key>macpwd</key>
+	<string>xxx</string>
+	<key>appleID</key>
+	<string>xxx@xxx.com</string>
+	<key>password</key>
+	<string>xxxx</string>
+	<key>target</key>
+	<dict>
+		<key>TT</key>
+		<dict>
+			<key>dmgFileName</key>
+			<string>xxxx</string>
+			<key>bundleid</key>
+			<string>com.xxxxx.xxx</string>
+			<key>dmgName</key>
+			<string>xxxx</string>
+			<key>entitlements</key>
+			<string>xxxxxx/xxxxx.entitlements</string>
+			<key>credentials</key>
+			<string>NOTARIZATION_xxxxx</string>
+			<key>config</key>
+			<dict>
+				<key>RC</key>
+				<dict>
+					<key>cert</key>
+					<string>Developer ID Application: xxxx Pte Ltd (xxxx)</string>
+					<key>teamid</key>
+					<string>xxxxxx</string>
+					<key>scheme</key>
+					<string>xxxxx-RC</string>
+				</dict>
+				<key>Release</key>
+				<dict>
+					<key>cert</key>
+					<string>Developer ID Application: xxxx Pte Ltd (xxxx)</string>
+					<key>teamid</key>
+					<string>xxxxxx</string>
+					<key>scheme</key>
+					<string>xxxx-Release</string>
+				</dict>
+			</dict>
+		</dict>
+		<key>TU</key>
+        <dict>
+            <key>dmgFileName</key>
+            <string>xxxx</string>
+            <key>bundleid</key>
+            <string>com.xxxxx.xxx</string>
+            <key>dmgName</key>
+            <string>xxxx</string>
+            <key>entitlements</key>
+            <string>xxxxxx/xxxxx.entitlements</string>
+            <key>credentials</key>
+            <string>NOTARIZATION_xxxxx</string>
+            <key>config</key>
+            <dict>
+                <key>RC</key>
+                <dict>
+                    <key>cert</key>
+                    <string>Developer ID Application: xxxx Pte Ltd (xxxx)</string>
+                    <key>teamid</key>
+                    <string>xxxxxx</string>
+                    <key>scheme</key>
+                    <string>xxxxx-RC</string>
+                </dict>
+                <key>Release</key>
+                <dict>
+                    <key>cert</key>
+                    <string>Developer ID Application: xxxx Pte Ltd (xxxx)</string>
+                    <key>teamid</key>
+                    <string>xxxxxx</string>
+                    <key>scheme</key>
+                    <string>xxxx-Release</string>
+                </dict>
+            </dict>
+        </dict>
+		<key>TL</key>
+        <dict>
+            <key>dmgFileName</key>
+            <string>xxxx</string>
+            <key>bundleid</key>
+            <string>com.xxxxx.xxx</string>
+            <key>dmgName</key>
+            <string>xxxx</string>
+            <key>entitlements</key>
+            <string>xxxxxx/xxxxx.entitlements</string>
+            <key>credentials</key>
+            <string>NOTARIZATION_xxxxx</string>
+            <key>config</key>
+            <dict>
+                <key>RC</key>
+                <dict>
+                    <key>cert</key>
+                    <string>Developer ID Application: xxxx Pte Ltd (xxxx)</string>
+                    <key>teamid</key>
+                    <string>xxxxxx</string>
+                    <key>scheme</key>
+                    <string>xxxxx-RC</string>
+                </dict>
+                <key>Release</key>
+                <dict>
+                    <key>cert</key>
+                    <string>Developer ID Application: xxxx Pte Ltd (xxxx)</string>
+                    <key>teamid</key>
+                    <string>xxxxxx</string>
+                    <key>scheme</key>
+                    <string>xxxx-Release</string>
+                </dict>
+            </dict>
+        </dict>
+	</dict>
+</dict>
+</plist>
