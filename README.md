@@ -57,7 +57,7 @@ sh path/to/package.sh -c Release
 
 ### App Store
 
-打包上传到App Store与其他两种打包方式也类似，不同点在于app导出参数的配置，和两个不同的验证并上传的命令上。
+打包上传到App Store与其他两种打包方式也类似，不同点在于app导出参数的配置，和两个不同的验证并上传的命令上，可以看[appstore.sh](appstore.sh)。
 
 ### Debug
 
@@ -86,7 +86,7 @@ sh path/to/package.sh -c Release
 
 就这么简单，对于使用者来说，必须要做的一件事，就是在系统便好设置中勾选“App Store和被认可的开发者 (App Store and identified developers)”选项，如下图：
 
-![](/Users/jo/Documents/Project/Owner/mac scripts/documents/imgs/preference.png)
+![](documents/imgs/preference.png)
 
 但是在别人使用的时候，会提示app无效，别担心，有以下两种方法处理：
 
@@ -96,4 +96,4 @@ sh path/to/package.sh -c Release
 
 - 更多的安全打开app相关的官方说明可以[看这里](https://support.apple.com/zh-cn/HT202491)。
 
-  ![](/Users/jo/Documents/Project/Owner/mac scripts/documents/imgs/unbelieved_app.png)
+  ![](documents/imgs/unbelieved_app.png)
